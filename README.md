@@ -3,15 +3,13 @@
 
 - 🔭 I’m currently working on **The Force**
 
-- 🌱 I’m currently learning **Flutter, Svelte, Golang**
+- 🌱 I’m currently learning **Flutter, Svelte and Golang**
 
 - 👨‍💻 All of my projects are available at [https://vercris.ml](https://vercris.ml)
 
-- 📝 I regularly write articles on [https://write.as/vercris](https://write.as/vercris)
+- 📝 I regularly write articles of any topic on [https://write.as/vercris](https://write.as/vercris)
 
-- 💬 Ask me about **Flutter, Svelte**
-
-- 📫 How to reach me **alvaroh1399@gmail.com**
+- 💬 Ask me about **Flutter or Svelte**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
