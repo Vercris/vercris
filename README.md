@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Svelte, IOS**
 
-- 👨‍💻 All of my projects are available at [https://vercris.ml](https://vercris.ml)
+- 👨‍💻 All of my projects are available at [https://vercris.com](https://vercris.com)
 
 - 📝 I regularly write articles of any topic on [https://write.as/vercris](https://write.as/vercris)
 
