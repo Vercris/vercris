@@ -5,18 +5,19 @@
 
 - 🌱 I’m currently learning **Svelte, IOS**
 
-- 📝 I regularly write articles of any topic on [https://write.as/vercris](https://medium.com/@Vercris)
+- 📝 I regularly write articles of any topic on Medium, visit [me profile of Medium](https://medium.com/@Vercris)
 
 - 💬 Ask me about **IOS**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vercris/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vercris/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vercris/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vercris/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vercris/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vercris/2" alt="Recent Article 2">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/vercris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vercris" height="30" width="40" /></a>
-<a href="https://hashnode.com/@vercris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vercris" height="30" width="40" /></a>
+<a href="https://medium.com/@vercris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="vercris" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@vercrisdev" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_tiktok-256.png" alt="@vercris" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,7 +25,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/vercris"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="vercris" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vercris&show_icons=true&theme=dark&title_color=ffffff&text_color=000000&bg_color=2feebb&hide_border=true&locale=en&layout=compact" alt="vercris" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vercris&show_icons=true&locale=en" alt="vercris" /></p>
