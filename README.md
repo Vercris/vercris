@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Svelte, IOS**
 
-- 📝 I regularly write articles of any topic on [https://write.as/vercris](https://write.as/vercris)
+- 📝 I regularly write articles of any topic on [https://write.as/vercris](https://medium.com/@Vercris)
 
 - 💬 Ask me about **IOS**
 
