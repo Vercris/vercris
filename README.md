@@ -15,13 +15,13 @@
   </tr>
   <tr>
     <td style="padding: 10px;">
-      <a href="https://aral-trendy.vercel.app">Visit Aral-Trendy</a>
+      <a href="https://aral-trendy.vercel.app" target="_blank">Visit Aral-Trendy</a>
       <p>This project is a set of projects that contains a presentation page, catalogue, shopping cart and administration page.
 Currently under development.</p>
       <video src="https://github-production-user-asset-6210df.s3.amazonaws.com/43978677/332613371-f548de78-4ec9-4562-ba9b-2ea2fa820637.mov?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240522%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240522T000907Z&X-Amz-Expires=300&X-Amz-Signature=04611ab8a13d252c1eff5bcfa0d64948b8b946e416cb65e06d3d7d03edb6e144&X-Amz-SignedHeaders=host&actor_id=43978677&key_id=0&repo_id=430406859" width="100" />
     </td>
     <td style="padding: 10px;">
-      <a href="https://www.qeto.app">Visit Qeto App</a>
+      <a href="https://www.qeto.app" target="_blank">Visit Qeto App</a>
       <p> Create the initial design for the Qeto application in Figma </p>
       <img src="https://github.com/Vercris/vercris/assets/43978677/801c7c3a-ccf6-41c4-99ae-eb9942075c63" alt="qeto app"/>
     </td>
