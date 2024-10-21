@@ -1,7 +1,7 @@
 # Hi 👋, I'm Vercris
 ## I am a super developer frontend
 
-- 🌱 I’m currently learning **Svelte, IOS and Flutter**
+- 🌱 I’m currently work with **Svelte, IOS and Flutter**
 
 - 📝 I regularly write articles of any topic on Medium, visit [me profile of Medium](https://medium.com/@Vercris)
 
